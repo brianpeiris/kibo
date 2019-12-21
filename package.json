@@ -1,6 +1,6 @@
 {
   "name": "@brianpeiris/kibo",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Kibo is a simple JavaScript library for handling keyboard events.",
   "main": "kibo.js",
   "repository": {
